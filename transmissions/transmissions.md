@@ -1,3 +1,22 @@
+Key
+
+Need probably 5
+
+- Parents worrying about child
+- Task from company
+- Angry roommate
+- Court Summons
+- Having a baby
+- Company about to lay you off
+
+- Cryptic message
+
+- Sibling finishing duty returning home
+- Sibling run away from home
+
+
+
+
 title m6x11 42px
 
 TIGHTBEAM TRACEROUTE m3x6 64px
@@ -176,6 +195,7 @@ Ivan
 
 Don't live like an urchin
 Get some Synthwood Birch in!
+                WoodYou
 
 
 =========================
@@ -305,3 +325,72 @@ LONG I THOUGHT I'D
 PASS ON MY CONDOLENSES
 MARGE WAS LOVED BY
 EVERYONE I'M SORRY
+
+
+
+Impress your Peers
+Realistic Wood Vaneers
+                WoodYou
+
+
+
+=========================
+PRIVATE TRANSMISSION 
+        URGENT
+=========================
+
+
+TIGHTBEAM TRACEROUTE
+
+WU_CORP_STN
+-> CERES
+-> NU-GAMMA-5
+-> YPSILON-14
+
+RECIPIENT: EMPLOYEE 2F0223
+SENDER: CLASSIFIED
+SENDER_ADDR: CLASSIFIED
+             DO NOT REPLY
+
+
+m6x11 32px
+
+-----BEGIN PGP MESSAGE-----
+
+-----END PGP MESSAGE-----
+
+recipient private key..
+
+
+-----BEGIN PLAINTEXT-----
+
+TREASURED EMPLOYEE
+
+A RECENT ROUTINE
+BACKGROUND CHECK REQUIRED
+FOR YOUR ONGOING EMPLOYMENT
+CONTRACT HAS BROUGHT SOME
+CONCERNING INFORMATION TO
+OUR ATTENTION
+
+WE ARE SORRY TO INFORM YOU
+THAT WE CAN NO LONGER
+CONTINUE YOUR CONTRACT
+
+AS PER CLAUSE 15(2)
+YOU ARE TO REMAIN
+ONBOARD UNTIL YOU REACH
+THE NEXT PORT WHERE
+YOU WILL BE RELINQUISHED
+OF YOUR DUTIES
+THERE REPORT TO THE
+NEAREST WUCORP OFFICE
+YOU WILL RECCEIVE YOUR
+FINAL PAYCHECK WITH
+LIVING EXPENSES AND
+FEES DEDUCTED
+
+LET US BE STRONG TOGETHER
+
+
+-----END PLAINTEXT-----
