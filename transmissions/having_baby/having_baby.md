@@ -12,7 +12,7 @@ NAIROBI (EARTH)
 -> YPSILON-14
 
 RECIPIENT: EMPLOYEE 11236
-SENDER: Rebecca
+SENDER: Kemunto
 SENDER_ADDR: 
 
 (pixantiquarian 28px)
@@ -47,7 +47,7 @@ Please forgive me
 Come home soon
 
 Love you
-Rebecca
+Kemunto
 
 ¢¢¢¢¢
 CHILI OIL PROTEIN

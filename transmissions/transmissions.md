@@ -2,12 +2,14 @@ Key
 
 Need probably 5
 
-- Parents worrying about child
-- Task from company
-- Angry roommate
-- Court Summons
-- Having a baby
-- Company about to lay you off
+Script Ready, metadata ready, published
+
+- [x] [] [] Parents worrying about child
+- [x] [] [] Task from company
+- [x] [] [] Angry roommate
+- []  [] [] Court Summons
+- [x] [] [] Having a baby
+- []  [] [] Company about to lay you off
 
 -- cut
 
@@ -17,7 +19,43 @@ Need probably 5
 
 
 
+2453_AD + 2016H
+monogram - 48px
 
+--------------
+
+# Mother darling
+Arrive
+2453_AD + 2024H
+
+Luna Stilton
+
+# Company <- would know best
+2453_AD + 2035H
+No ad
+
+# Lottery
+2453_AD + 2003H
+
+Wood vaneers
+
+# Court Summons
+2453_AD + 1991H
+
+No ad
+
+# Company Layoff
+2453_AD + 2011H
+
+No ad
+
+# Angry Roommate
+2453_AD + 2035H
+
+Halleys Cometcon
+
+
+--------------
 
 
 
@@ -54,6 +92,11 @@ EVERYONE I'M SORRY
 
 
 Impress your Peers
-Realistic Wood Vaneers
-                WoodYou
+Realistic Wood Veneers
+                SynWood
 
+
+
+
+--
+Chili oil protein
