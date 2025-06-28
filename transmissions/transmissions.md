@@ -2,14 +2,14 @@ Key
 
 Need probably 5
 
-Script Ready, metadata ready, published
+Script Ready, metadata Ready, Published
 
-- [x] [] [] Parents worrying about child
-- [x] [] [] Task from company
-- [x] [] [] Angry roommate
-- []  [] [] Court Summons
+- [x] [x] [x] Parents worrying about child
+- [x] [x] [x] Task from company
+- [x] [x] [x] Angry roommate
 - [x] [] [] Having a baby
-- []  [] [] Company about to lay you off
+- [x]  [] [] Company about to lay you off
+- []  [] [] Court Summons
 
 -- cut
 

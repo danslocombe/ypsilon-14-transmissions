@@ -4,6 +4,8 @@ title m6x11 42px
 
 TIGHTBEAM TRACEROUTE m3x6 64px
 
+m6x11 32px
+
 月 (LUNAR)
 -> CERES
 -> NU-GAMMA-5
