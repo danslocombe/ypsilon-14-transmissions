@@ -7,9 +7,9 @@ Script Ready, metadata Ready, Published
 - [x] [x] [x] Parents worrying about child
 - [x] [x] [x] Task from company
 - [x] [x] [x] Angry roommate
-- [x] [] [] Having a baby
-- [x]  [] [] Company about to lay you off
-- []  [] [] Court Summons
+- [x] [x] [x] Having a baby
+- [x] [x] [x] Company about to lay you off
+- [x] [x] [x] Court Summons
 
 -- cut
 
@@ -34,7 +34,7 @@ Luna Stilton
 2453_AD + 2035H
 No ad
 
-# Lottery
+# Having a baby
 2453_AD + 2003H
 
 Wood vaneers
