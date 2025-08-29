@@ -1,1 +1,23 @@
-## Receipt Printer Transmissions for Haunting of Yspilon-14 
+
+![Banner image](https://raw.githubusercontent.com/danslocombe/mothership/refs/heads/main/transmissions/image0.jpeg?token=GHSAT0AAAAAADIYHDWG7FB3E67KMOOZVHNA2FSFP4Q)
+
+# Receipt Printer Transmissions for Haunting of Ypsilon-14
+
+Transimissions you can give your players, can also be sent digitally.
+Each player rolls a d6 on reaching the station where the trasmission has been sent to the base.
+
+Printer can be run with eg
+```
+python catprinter\print.py 01-worrying_parents\01-worrying_parents.png
+```
+[Code is adapted from here](https://github.com/rbaron/catprinter/tree/main)
+
+---
+
+AFter buying the Mothership boxset and spending days pouring over pamphlets I still had a few weeks before we could schedule a session.
+I had a cheap alibaba thermal receipt printer from a previous project along with many rolls of (yes PVC free) paper.
+
+It was a lot of fun writing these, Ypsilon-14 is two sides of A4 so trying to place it in a world takes some imagination. The messages are set in a relatively grounded "expanse-style" solar system, at least one with simplified Marsian spelling.
+They were though fairly painstaking to lay them out as it was done in Aseprite. Maybe this could be code if I wanted to do more.
+
+![Transmission printed](https://raw.githubusercontent.com/danslocombe/mothership/refs/heads/main/transmissions/image1.jpeg?token=GHSAT0AAAAAADIYHDWHZBHDHY32ET5ECNB42FSFQ4A)
