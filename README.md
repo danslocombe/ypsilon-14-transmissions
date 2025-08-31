@@ -1,5 +1,5 @@
 
-![Banner image](https://raw.githubusercontent.com/danslocombe/mothership/refs/heads/main/transmissions/image0.jpeg)
+![Banner image](https://raw.githubusercontent.com/danslocombe/ypsilon-14-transmissions/refs/heads/main/image0.jpeg)
 
 # Receipt Printer Transmissions for Haunting of Ypsilon-14
 
@@ -20,4 +20,4 @@ I had a cheap alibaba thermal receipt printer from a previous project along with
 It was a lot of fun writing these, Ypsilon-14 is two sides of A4 so trying to place it in a world takes some imagination. The messages are set in a relatively grounded "expanse-style" solar system, at least one with simplified Marsian spelling.
 They were though fairly painstaking to lay them out as it was done in Aseprite. Maybe this could be code if I wanted to do more.
 
-![Transmission printed](https://raw.githubusercontent.com/danslocombe/mothership/refs/heads/main/transmissions/image1.jpeg)
+![Transmission printed](https://raw.githubusercontent.com/danslocombe/ypsilon-14-transmissions/refs/heads/main/image1.jpeg)
